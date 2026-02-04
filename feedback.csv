@@ -1,0 +1,181 @@
+text,label,label_id
+Sir aaj ki class bahut achhi thi,Positive,0
+Lecture bahut interesting tha,Positive,0
+Concept clearly samajh aa gaya,Positive,0
+Sir ka padhane ka style achha hai,Positive,0
+Class me maza aaya,Positive,0
+Sir ne examples ke sath samjhaya,Positive,0
+Aaj ka lecture helpful tha,Positive,0
+Sir bahut clearly padhate hai,Positive,0
+Class engaging thi,Positive,0
+Sir ke explanation se doubt clear ho gaye,Positive,0
+Aaj ki class productive thi,Positive,0
+Sir ka explanation easy tha,Positive,0
+Concept simple language me samjhaya,Positive,0
+Sir ne time par syllabus complete kiya,Positive,0
+Lecture enjoyable tha,Positive,0
+Sir ne students ke questions liye,Positive,0
+Class ka environment achha tha,Positive,0
+Padhai interesting lag rahi hai,Positive,0
+Sir ke notes helpful hai,Positive,0
+Aaj ka topic achha laga,Positive,0
+Sir motivate karte hai,Positive,0
+Class me focus bana raha,Positive,0
+Sir ka approach achha hai,Positive,0
+Lecture achhi pace me tha,Positive,0
+Sir friendly hai,Positive,0
+Concept practical examples se samjha,Positive,0
+Class interactive thi,Positive,0
+Sir clearly bolte hai,Positive,0
+Aaj padhai samajh aayi,Positive,0
+Class ka experience achha raha,Positive,0
+Sir ki teaching style superb hai,Positive,0
+Har topic detail mein cover kiya gaya,Positive,0
+Learning experience bahut zabardast tha,Positive,0
+Mujhe laga ki main bohot kuch seekh gaya,Positive,0
+Questions poochne me koi jhijhak nahi hui,Positive,0
+Pure lecture me energy bani rahi,Positive,0
+Sir ka sense of humor bhi achha hai,Positive,0
+Complex topics bhi aasan lage,Positive,0
+Notes aur slides dono kaam ke the,Positive,0
+Ekdum perfect class thi aaj ki,Positive,0
+Aaj ka session mind-blowing tha,Positive,0
+Har cheez crystal clear ho gayi,Positive,0
+Itna confidence mila ki kya bataun,Positive,0
+Sir jaisa teacher milna mushkil hai,Positive,0
+Class mein time kaise nikal gaya pata hi nahi chala,Positive,0
+Sabse best part tha interactive sessions,Positive,0
+Maza aa gaya padhke aaj,Positive,0
+Definitely recommend karunga is class ko,Positive,0
+Padhai ko interesting bana dete hai sir,Positive,0
+"Awesome experience, thank you sir",Positive,0
+Really enjoyed the lecture today,Positive,0
+Concepts became so much clearer,Positive,0
+Sir has a great way of explaining things,Positive,0
+Feeling very positive about my learning,Positive,0
+The examples were spot on,Positive,0
+Highly engaging and informative class,Positive,0
+My doubts were completely resolved,Positive,0
+The content was very relevant and useful,Positive,0
+Looking forward to the next class,Positive,0
+A very enriching learning session,Positive,0
+Aaj ki class boring thi,Negative,1
+Lecture samajh nahi aaya,Negative,1
+Sir bahut fast padhate hai,Negative,1
+Class me interest nahi bana,Negative,1
+Aaj ka topic confusing tha,Negative,1
+Sir ka explanation clear nahi tha,Negative,1
+Lecture dull lag raha tha,Negative,1
+Class me focus nahi ho paaya,Negative,1
+Sir examples nahi dete,Negative,1
+Aaj padhai mushkil lagi,Negative,1
+Class ka pace bahut fast tha,Negative,1
+Topic properly explain nahi hua,Negative,1
+Sir repeat nahi karte,Negative,1
+Class me clarity nahi thi,Negative,1
+Lecture boring ho gaya,Negative,1
+Aaj class me maza nahi aaya,Negative,1
+Sir ke notes samajh nahi aaye,Negative,1
+Class me confusion raha,Negative,1
+Concept tough laga,Negative,1
+Sir thoda slow padhaye,Negative,1
+Lecture exhausting tha,Negative,1
+Class ka flow achha nahi tha,Negative,1
+Sir ne doubts clear nahi kiye,Negative,1
+Topic boring laga,Negative,1
+Class me attention nahi bana,Negative,1
+Sir jaldi jaldi padha rahe the,Negative,1
+Lecture heavy laga,Negative,1
+Class me interest kam tha,Negative,1
+Topic achha explain nahi hua,Negative,1
+Samajhne me dikkat hui,Negative,1
+Sir ne aaj bilkul interact nahi kiya,Negative,1
+Class bahut lambi lagi,Negative,1
+Mera time waste ho gaya,Negative,1
+Is topic se dimaag kharab ho gaya,Negative,1
+Pura session frustrating tha,Negative,1
+Homework bahut zyada de diya,Negative,1
+Mujhe kuch bhi yaad nahi raha,Negative,1
+Sir ka mood achha nahi tha lagta hai,Negative,1
+Next class attend nahi karunga,Negative,1
+Ye sab mere sir ke upar se gaya,Negative,1
+Lecture me bahut disturbance thi,Negative,1
+Aaj ki class pointless thi,Negative,1
+Sir ne humein bore kar diya,Negative,1
+Online class offline jaisi feel nahi hui,Negative,1
+Expected se bahut kam tha aaj ka lecture,Negative,1
+Lagta hai sir ko bhi interest nahi tha,Negative,1
+Sab kuch bahut confusing tha,Negative,1
+Mera man nahi laga padhai me,Negative,1
+Is topic ko revise karna padega alag se,Negative,1
+Sir ne details me nahi bataya,Negative,1
+This class was a waste of time,Negative,1
+Couldn't understand anything today,Negative,1
+The teacher was too fast,Negative,1
+Lost all my interest in the subject,Negative,1
+The topic was extremely confusing,Negative,1
+Explanation was very unclear,Negative,1
+Felt sleepy throughout the lecture,Negative,1
+Couldn't focus at all,Negative,1
+No proper examples were given,Negative,1
+Found today's study very difficult,Negative,1
+Aaj class normal thi,Neutral,2
+Lecture theek tha,Neutral,2
+Topic average laga,Neutral,2
+Class routine jaisi thi,Neutral,2
+Aaj kuch khas nahi tha,Neutral,2
+Lecture okay tha,Neutral,2
+Class usual thi,Neutral,2
+Topic manageable tha,Neutral,2
+Sir ne padhaya,Neutral,2
+Class chal rahi thi,Neutral,2
+Lecture expected jaisa tha,Neutral,2
+Aaj ka topic average tha,Neutral,2
+Class me kuch naya nahi tha,Neutral,2
+Lecture standard tha,Neutral,2
+Class me koi problem nahi thi,Neutral,2
+Topic theek se cover hua,Neutral,2
+Lecture time par khatam hua,Neutral,2
+Class me normal discussion hui,Neutral,2
+Sir ne syllabus follow kiya,Neutral,2
+Class smooth thi,Neutral,2
+Lecture informative tha,Neutral,2
+Topic understandable tha,Neutral,2
+Class me balance tha,Neutral,2
+Sir ka style same tha,Neutral,2
+Lecture me flow tha,Neutral,2
+Topic predictable tha,Neutral,2
+Class regular thi,Neutral,2
+Lecture decent tha,Neutral,2
+Topic acceptable laga,Neutral,2
+Class satisfactory thi,Neutral,2
+Class me na kuch achha tha na bura,Neutral,2
+Aaj ka session bas ho gaya,Neutral,2
+Pura lecture suna par impact kuch nahi hua,Neutral,2
+Jo sikhaya gaya woh theek tha,Neutral,2
+Sir ne apna kaam kiya,Neutral,2
+Class ka experience bas average tha,Neutral,2
+Aisa hi hota hai roj,Neutral,2
+Attendance ke liye aaya tha,Neutral,2
+Kuch naya nahi tha aaj,Neutral,2
+Bas sunte rahe sab,Neutral,2
+Class me zyada excitement nahi thi,Neutral,2
+Topic was neither good nor bad,Neutral,2
+Sir did his job well,Neutral,2
+It was just another class,Neutral,2
+Nothing special happened today,Neutral,2
+"The lecture was okay, not great, not bad",Neutral,2
+"I learned something, but it wasn't groundbreaking",Neutral,2
+"The pace was normal, not too fast, not too slow",Neutral,2
+"The environment was fine, no issues",Neutral,2
+It was a standard learning experience,Neutral,2
+Class khatam ho gayi,Neutral,2
+Sab theek tha,Neutral,2
+Koi issue nahi tha,Neutral,2
+Bas ho gaya kaam,Neutral,2
+Roz jaisa hi tha,Neutral,2
+Syllabus cover ho gaya,Neutral,2
+Sir ne padha diya,Neutral,2
+It was what I expected,Neutral,2
+No complaints,Neutral,2
+Content was delivered,Neutral,2
